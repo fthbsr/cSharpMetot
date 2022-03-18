@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/metot/bin/Debug/net6.0/metot
+/Users/fatihbasar/Desktop/metot/bin/Debug/net6.0/metot.deps.json
+/Users/fatihbasar/Desktop/metot/bin/Debug/net6.0/metot.runtimeconfig.json
+/Users/fatihbasar/Desktop/metot/bin/Debug/net6.0/metot.dll
+/Users/fatihbasar/Desktop/metot/bin/Debug/net6.0/metot.pdb
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.dll
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/refint/metot.dll
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.pdb
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/metot.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/metot/obj/Debug/net6.0/ref/metot.dll
